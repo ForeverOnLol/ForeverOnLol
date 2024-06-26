@@ -9,6 +9,6 @@ Hi there! I'm Rodion Kovalevsky, a passionate Python developer who loves to crea
 + 🛠️ Python libraries and tools
 + 🚀 Exciting new ideas and experiments
 
-⭐️ Star this repository if you find my projects useful! Your support motivates me to keep creating awesome stuff.
+⭐️ Star my repositories if you find my projects useful! Your support motivates me to keep creating awesome stuff.
 
 Happy coding! 🚀
